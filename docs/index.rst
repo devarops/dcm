@@ -1,19 +1,13 @@
 Data Control Manager
 ====================
 
-Contents:
+*dcm* es una aplicación que emula control de versiones para archivos binarios de datos.
+
+Contenido
+---------
 
 .. toctree::
    :maxdepth: 2
    :glob:
 
    *
-
-
-
-Índices y tablas
-================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
